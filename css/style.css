@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header__logo {
+    padding: 5px 0 ;
+}
+
+.header__h1 {
+    font-family: sans-serif;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
+.header__hero {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    row-gap: 10px;
+    margin-top: 10px;
+}
+
+.main__img {
+    margin-left: -49px;
+}
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.main {
+    margin-top: 10px;
+}
+
+.main__logo {
+    margin-top: -2px;
+}
